@@ -90,7 +90,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"maps\/map-digitalhub.json"
+                 "value":"maps\/test.json"
                 }],
          "type":"tilelayer",
          "visible":true,
