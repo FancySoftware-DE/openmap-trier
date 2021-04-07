@@ -9,3 +9,7 @@ Here you can enter the world [OpenMapTrier](https://play.workadventu.re/_/global
 
 To understand how to help to build the world, follow the tutorial at [https://workadventu.re/map-building]
 (https://workadventu.re/map-building).
+
+We can link the rooms. 
+
+The target is to build our beautiful city of trier. 
