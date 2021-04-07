@@ -834,10 +834,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":321,
-         "source":"..\/tilesets\/LPC_Tilesets_Inside_B.json"
         }],
  "tilewidth":32,
  "type":"map",
