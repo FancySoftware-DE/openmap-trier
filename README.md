@@ -1,6 +1,7 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Open Map Trier
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+Here you can enter the world [OpenMapTrier](https://play.workadventu.re/_/global/fancysoftware-de.github.
+io/openmap-trier/map.json).
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+To understand how to help to build the world, follow the tutorial at [https://workadventu.re/map-building]
+(https://workadventu.re/map-building).
