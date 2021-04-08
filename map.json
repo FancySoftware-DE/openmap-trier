@@ -150,7 +150,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/fancysoftware.de\/files\/public\/03%20was%20ist%20hier%20nur%20passiert.mp3"
+                 "value":"https:\/\/fancysoftware.de\/files\/public\/passiert.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
