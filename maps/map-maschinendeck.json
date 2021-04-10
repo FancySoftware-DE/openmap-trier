@@ -195,9 +195,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"script",
+                 "name":"triggerEvent",
                  "type":"string",
-                 "value":"map-maschinendeck.js"
+                 "value":"myPopup1"
                 }],
          "type":"objectgroup",
          "visible":true,
