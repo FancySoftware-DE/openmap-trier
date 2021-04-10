@@ -193,6 +193,12 @@
                  "y":526.554698138901
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"script",
+                 "type":"string",
+                 "value":"map-maschinendeck.js"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -235,7 +241,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"welcome-md.js"
+         "value":"map-maschinendeck.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"2021.03.23",
