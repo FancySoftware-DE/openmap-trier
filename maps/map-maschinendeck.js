@@ -1,7 +1,7 @@
 let helloWorldPopup;
 
 // Open the popup when we enter a given zone
-helloWorldPopup = WA.onEnterZone('myZone', () => {
+helloWorldPopup = WA.onEnterZone('myPopup1', () => {
     WA.openPopup("myPopup1", 'Hello world!', {
         label: "Close",
         className: "primary",
@@ -13,6 +13,6 @@ helloWorldPopup = WA.onEnterZone('myZone', () => {
 })
 
 // Close the popup when we leave the zone.
-WA.onLeaveZone('myZone', () => {
+WA.onLeaveZone('myPopup1', () => {
     helloWorldPopup.close();
 })
