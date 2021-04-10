@@ -1,8 +1,8 @@
-let myPopup1;
+let helloWorldPopup;
 
 // Open the popup when we enter a given zone
-myPopup1 = WA.onEnterZone('myZone', () => {
-    WA.openPopup("popupRectangle", 'Hello world!', {
+helloWorldPopup = WA.onEnterZone('myZone', () => {
+    WA.openPopup("myPopup1", 'Hello world!', {
         label: "Close",
         className: "primary",
         callback: (popup) => {
