@@ -90,7 +90,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"maps\/test.json"
+                 "value":"maps\/map-flat-1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
