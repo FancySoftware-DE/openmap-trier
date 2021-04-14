@@ -7,7 +7,8 @@ Up-to-date Browser and stable video hardware setup recommended.
 
 
 Here you can enter the world [OpenMapTrier]
-(https://play.workadventu.re/_/global/fancysoftware-de.github.io/openmap-trier/map.json).
+
+https://play.workadventu.re/_/global/fancysoftware-de.github.io/openmap-trier/map.json
 
 https://play.wa.binary-kitchen.de/_/global/fancysoftware-de.github.io/openmap-trier/map.json
 
