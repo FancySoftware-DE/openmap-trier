@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"map-flat-1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
