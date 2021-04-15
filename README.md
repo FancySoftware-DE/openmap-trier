@@ -14,7 +14,9 @@ https://play.workadventu.re/_/global/fancysoftware-de.github.io/openmap-trier/ma
 
 Quests:
 - Find all fancy Rings... 
+- Find exit to chaos continent 
 - Solve the million coin question...
+- Play a game and meet nice people
 
 You can link rooms, maps, servers. Maps can run on different server as the jitsi instances. 
 Plan: The target is to build our beautiful city of trier.
